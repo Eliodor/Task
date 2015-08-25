@@ -110,25 +110,7 @@ namespace Task_2
 
         }
 
-        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
 
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-            
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -193,7 +175,7 @@ namespace Task_2
                                     listBox3.SelectedItem + ":" + listBox4.SelectedItem + (char)174 + "\r\n");
                             }
                             else
-                            { MessageBox.Show("Начало события не может позже его конца"); }
+                            { MessageBox.Show("Начало события не может быть после его конца"); }
                         }
                     }
 
@@ -251,6 +233,25 @@ namespace Task_2
         }
 
         private void listBox3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
 
         }

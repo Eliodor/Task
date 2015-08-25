@@ -7,3 +7,12 @@ E:\Мои документы\Программы\Visual studio Проекты\Tas
 E:\Мои документы\Программы\Visual studio Проекты\Task 2\Task 2\obj\Debug\Task 2.csproj.GenerateResource.Cache
 E:\Мои документы\Программы\Visual studio Проекты\Task 2\Task 2\obj\Debug\Task 2.exe
 E:\Мои документы\Программы\Visual studio Проекты\Task 2\Task 2\obj\Debug\Task 2.pdb
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\bin\Debug\Task 2.exe.config
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task 2.exe
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task 2.pdb
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task_2.Form1.resources
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task_2.Properties.Resources.resources
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\obj\Debug\Task 2.csproj.GenerateResource.Cache
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\bin\Debug\Task 2.exe
+E:\Мои документы\Программы\Visual studio Проекты\Task\Task 2\bin\Debug\Task 2.pdb
